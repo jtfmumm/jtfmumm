@@ -3,11 +3,11 @@
 Distributed systems, safe concurrency, architecture, research, education. Worked on the [Wallaroo](https://github.com/WallarooLabs/wally) distributed stream processing framework.
 
 __Some talks__:
-* [Safely Sharing Data](https://www.youtube.com/watch?v=u1JfYa413fY): Reference Capabilities in the Pony Programming Language
-* [A CRDT Primer](https://www.youtube.com/watch?v=OOlnp2bZVRs): Defanging Order Theory
+* [Safely Sharing Data](https://www.youtube.com/watch?v=u1JfYa413fY): Reference capabilities in the Pony programming language
+* [A CRDT Primer](https://www.youtube.com/watch?v=OOlnp2bZVRs): Defanging order theory
 * [Think Local](https://talks.codemotion.com/think-local-reducing-coordination-and-im): Reducing coordination and improving performance when designing distributed systems
 
-I have a [technical blog](https://jtfmumm.com/blog), but updates are remarkably infrequent.
+I have a [technical blog](http://jtfmumm.com/blog), but updates are remarkably infrequent.
 
 __Some fun side projects__:
 * [rlox](https://github.com/jtfmumm/rlox): Rust implementation of a tree-walking interpreter for the Lox language
