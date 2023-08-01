@@ -20,4 +20,5 @@ __Some fun side projects__:
 * [sequeNES](https://github.com/jtfmumm/sequeNES): small NES music sequencer written in 6502 assembly
 
 __Other stuff__
+
 I recently spent some time on a Hugo-based [songwriting blog](https://organizingsound.com) and the rough draft of a book on philosophical skepticism and intellectual humility.
