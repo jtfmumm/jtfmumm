@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Distributed systems, stream processing, safe concurrency, architecture, education. Worked on the [Wallaroo distributed stream processing framework](https://github.com/WallarooLabs/wally).
+Distributed systems, safe concurrency, architecture, research, education. Worked on the [Wallaroo](https://github.com/WallarooLabs/wally) distributed stream processing framework.
 
 Some talks:
-* [Safely Sharing Data - Reference Capabilities in the Pony Programming Language](https://www.youtube.com/watch?v=u1JfYa413fY)
-* [A CRDT Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs)
-* [Think Local: Reducing coordination and improving performance when designing distributed systems](https:/talks.codemotion.com/think-local-reducing-coordination-and-im)
+* [Safely Sharing Data](https://www.youtube.com/watch?v=u1JfYa413fY): Reference Capabilities in the Pony Programming Language
+* [A CRDT Primer](https://www.youtube.com/watch?v=OOlnp2bZVRs): Defanging Order Theory
+* [Think Local](https://talks.codemotion.com/think-local-reducing-coordination-and-im): Reducing coordination and improving performance when designing distributed systems
 
-[Infrequent blogging](jtfmumm.com/blog)
+Very infrequently updated [blog](https://jtfmumm.com/blog)
 
 Some fun side projects over the years:
 * [rlox](https://github.com/jtfmumm/rlox): Rust implementation of a tree-walking interpreter for the Lox language
@@ -19,4 +19,4 @@ Some fun side projects over the years:
 * [fun with algebraic structures](https://github.com/jtfmumm/algebraic-structures)
 * [sequeNES](https://github.com/jtfmumm/sequeNES): small NES music sequencer written in 6502 assembly
 
-I recently spent some time on a Hugo-based [songwriting blog](organizingsound.com) and the rough draft of a book on philosophical skepticism and intellectual humility.
+I recently spent some time on a Hugo-based [songwriting blog](https://organizingsound.com) and the rough draft of a book on philosophical skepticism and intellectual humility.
