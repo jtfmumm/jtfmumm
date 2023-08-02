@@ -11,7 +11,7 @@ I have a [technical blog](http://jtfmumm.com/blog), but updates are remarkably i
 
 __Some fun side projects__:
 * [rlox](https://github.com/jtfmumm/rlox): Rust implementation of a tree-walking interpreter for the Lox language.
-* [acolyte](https://github.com/jtfmumm/acolyte): procedurally-generated roguelike game implemented in Rust.
+* [acolyte](https://github.com/jtfmumm/acolyte): procedurally-generated roguelike game implemented in Rust (currently closed source).
 * [novitiate](https://github.com/jtfmumm/novitiate): simpler, terminal-based version of the same game implemented in Pony.
 * [microkanren-pony](https://github.com/jtfmumm/microkanren-pony): μKanren implemented in Pony.
 * [functional data structures for Pony](https://github.com/jtfmumm/pony-functional-data).
