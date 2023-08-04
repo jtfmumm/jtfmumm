@@ -15,7 +15,7 @@ __Some fun side projects__:
 * [novitiate](https://github.com/jtfmumm/novitiate): simpler, terminal-based version of the same game implemented in Pony.
 * [microkanren-pony](https://github.com/jtfmumm/microkanren-pony): μKanren implemented in Pony.
 * [functional data structures for Pony](https://github.com/jtfmumm/pony-functional-data).
-* [fitzroy](https://github.com/jtfmumm/fitzroy): distributed systems simulator implemented in Scala.
+* [dsscratch](https://github.com/jtfmumm/fitzroy): distributed systems simulator implemented in Scala.
 * [fun with algebraic structures](https://github.com/jtfmumm/algebraic-structures).
 * [sequeNES](https://github.com/jtfmumm/sequeNES): small NES music sequencer written in 6502 assembly.
 
