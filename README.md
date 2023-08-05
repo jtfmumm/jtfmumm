@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in distributed systems, safe concurrency, architecture, research, education. Worked on the [Wallaroo](https://github.com/WallarooLabs/wally) distributed stream processing framework. Tend to write in Rust these days.
+I'm interested in distributed systems, safe concurrency, architecture, research, education. I worked on the [Wallaroo](https://github.com/WallarooLabs/wally) distributed stream processing framework. I tend to write in Rust these days.
 
 __Some talks__:
 * [Safely Sharing Data](https://www.youtube.com/watch?v=u1JfYa413fY): Reference capabilities in the Pony programming language.
