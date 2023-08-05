@@ -21,4 +21,4 @@ __Some fun side projects__:
 
 __Other stuff__
 
-I recently spent some time on a Hugo-based [songwriting blog](https://organizingsound.com) and the rough draft of a book on philosophical skepticism and intellectual humility.
+I recently spent some time developing (and writing) a Hugo-based [songwriting blog](https://organizingsound.com) and writing the rough draft of a book on philosophical skepticism and intellectual humility.
