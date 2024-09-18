@@ -9,7 +9,7 @@ __Some talks__:
 
 I have a [technical blog](http://jtfmumm.com/blog), but updates are remarkably infrequent.
 
-__Some fun side projects__:
+__Some fun side projects__ (in reverse chronological order):
 * [rustraft](https://github.com/jtfmumm/rustraft): Work-in-progress Rust implementation of the extended Raft paper.
 * [rlox](https://github.com/jtfmumm/rlox): Rust implementation of a tree-walking interpreter for the Lox language.
 * [acolyte](https://github.com/jtfmumm/acolyte): procedurally-generated roguelike game implemented in Rust (currently closed source).
