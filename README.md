@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in distributed systems, safe concurrency, architecture, research, education. I currently work at Astral on [uv](https://github.com/astral-sh/uv). In the past, I worked on the open-source [Wallaroo](https://github.com/WallarooLabs/wally) distributed stream processing framework. I tend to write in Rust these days.
+I'm interested in distributed systems, safe concurrency, architecture, research, education. I currently work at Ink & Switch. I tend to write in Rust these days.
 
 __Some talks__:
 * [Safely Sharing Data](https://www.youtube.com/watch?v=u1JfYa413fY): Reference capabilities in the Pony programming language.
